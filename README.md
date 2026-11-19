@@ -1,4 +1,5 @@
 # NYU Music Technology Capstone
+#### Reese Hsu | New York University Music Technology 2027
 ## Description:
 This repository contains the research, learning, and final product (to come) for my New York University Music Technology Senior Capstone Project
 
